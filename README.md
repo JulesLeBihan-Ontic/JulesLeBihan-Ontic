@@ -1,4 +1,4 @@
-## I'm currently learning GitHub  :woman_student:
+## I'm currently thinking about Streamlit  :woman_student: :nerd_face:
 
 
 
