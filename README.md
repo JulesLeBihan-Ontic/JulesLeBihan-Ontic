@@ -1,4 +1,4 @@
-## I'm currently thinking about Streamlit  :woman_student: :nerd_face:
+## I'm currently thinking about documentation  :woman_student: 
 
 
 
